@@ -26,6 +26,7 @@ markers:
   - {type: line-break, offset: 17, content: '', id: KR1b0034_WYG_008-1a04}
   - {type: indent, offset: 17, content: 　, id: KR1b0034_WYG_008-bkkind6}
   - {type: punctuation, offset: 17, content: (, id: KR1b0034_WYG_008-bkkpn1}
+  - {type: voice, offset: 17, length: 28, name: note, id: n1}
   - {type: punctuation, offset: 31, content: /, id: KR1b0034_WYG_008-bkkpn2}
   - {type: punctuation, offset: 45, content: ), id: KR1b0034_WYG_008-bkkpn3}
   - {type: 'kr:newline', offset: 45, content: '
@@ -38,6 +39,7 @@ markers:
   - {type: line-break, offset: 66, content: '', id: KR1b0034_WYG_008-1a06}
   - {type: indent, offset: 66, content: 　, id: KR1b0034_WYG_008-bkkind7}
   - {type: punctuation, offset: 66, content: (, id: KR1b0034_WYG_008-bkkpn4}
+  - {type: voice, offset: 66, length: 344, name: note, id: n2}
   - {type: punctuation, offset: 86, content: /, id: KR1b0034_WYG_008-bkkpn5}
   - {type: punctuation, offset: 106, content: ), id: KR1b0034_WYG_008-bkkpn6}
   - {type: 'kr:newline', offset: 106, content: '
@@ -122,6 +124,7 @@ markers:
   - {type: line-break, offset: 412, content: '', id: KR1b0034_WYG_008-1b08}
   - {type: indent, offset: 412, content: 　, id: KR1b0034_WYG_008-bkkind16}
   - {type: punctuation, offset: 412, content: (, id: KR1b0034_WYG_008-bkkpn31}
+  - {type: voice, offset: 412, length: 71, name: note, id: n3}
   - {type: punctuation, offset: 432, content: /, id: KR1b0034_WYG_008-bkkpn32}
   - {type: punctuation, offset: 452, content: ), id: KR1b0034_WYG_008-bkkpn33}
   - {type: 'kr:newline', offset: 452, content: '
@@ -167,6 +170,7 @@ markers:
   - {type: line-break, offset: 590, content: '', id: KR1b0034_WYG_008-2a08}
   - {type: indent, offset: 590, content: 　, id: KR1b0034_WYG_008-bkkind18}
   - {type: punctuation, offset: 590, content: (, id: KR1b0034_WYG_008-bkkpn37}
+  - {type: voice, offset: 590, length: 635, name: note, id: n4}
   - {type: 'kr:non-cjk', offset: 602, content: ○, id: KR1b0034_WYG_008-bkkkrnonc6}
   - {type: punctuation, offset: 609, content: /, id: KR1b0034_WYG_008-bkkpn38}
   - {type: punctuation, offset: 629, content: ), id: KR1b0034_WYG_008-bkkpn39}
@@ -332,6 +336,7 @@ markers:
   - {type: line-break, offset: 1262, content: '', id: KR1b0034_WYG_008-3b03}
   - {type: indent, offset: 1262, content: 　, id: KR1b0034_WYG_008-bkkind35}
   - {type: punctuation, offset: 1262, content: (, id: KR1b0034_WYG_008-bkkpn88}
+  - {type: voice, offset: 1262, length: 196, name: note, id: n5}
   - {type: 'kr:non-cjk', offset: 1273, content: ○, id: KR1b0034_WYG_008-bkkkrnonc15}
   - {type: punctuation, offset: 1281, content: /, id: KR1b0034_WYG_008-bkkpn89}
   - {type: punctuation, offset: 1301, content: ), id: KR1b0034_WYG_008-bkkpn90}
@@ -384,6 +389,7 @@ markers:
   - {type: line-break, offset: 1475, content: '', id: KR1b0034_WYG_008-4a01}
   - {type: indent, offset: 1475, content: 　, id: KR1b0034_WYG_008-bkkind40}
   - {type: punctuation, offset: 1475, content: (, id: KR1b0034_WYG_008-bkkpn103}
+  - {type: voice, offset: 1475, length: 246, name: note, id: n6}
   - {type: punctuation, offset: 1495, content: /, id: KR1b0034_WYG_008-bkkpn104}
   - {type: punctuation, offset: 1515, content: ), id: KR1b0034_WYG_008-bkkpn105}
   - {type: 'kr:newline', offset: 1515, content: '
@@ -454,6 +460,7 @@ markers:
   - {type: line-break, offset: 1744, content: '', id: KR1b0034_WYG_008-4b02}
   - {type: indent, offset: 1744, content: 　, id: KR1b0034_WYG_008-bkkind47}
   - {type: punctuation, offset: 1744, content: (, id: KR1b0034_WYG_008-bkkpn124}
+  - {type: voice, offset: 1744, length: 194, name: note, id: n7}
   - {type: 'kr:non-cjk', offset: 1758, content: ○, id: KR1b0034_WYG_008-bkkkrnonc21}
   - {type: punctuation, offset: 1763, content: /, id: KR1b0034_WYG_008-bkkpn125}
   - {type: punctuation, offset: 1783, content: ), id: KR1b0034_WYG_008-bkkpn126}
@@ -505,4 +512,4 @@ markers:
 
       ', id: KR1b0034_WYG_008-bkkp1}
   back: []
-hash: sha256:09a361d71bc395eaf2970a949ca3108dd6d223e11ff2621ea537b500616b253d
+hash: sha256:70d18830fb4bce3c30d8c63ee6aaeb43a9dcc84ec2dd6ae1b278956fae3aee69
